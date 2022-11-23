@@ -1,9 +1,7 @@
 import java.util.Date;
 
 import java.awt.*;
-import java.awt.event.*;
 import javax.swing.*;
-import java.util.Date;
 
 public class Main {
     //get the current date and time on local machine and update every second
